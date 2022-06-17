@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Email"
+    android:background="@drawable/sl4">
+
+    <TextView
+        android:id="@+id/nas"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginTop="30dp"
+        android:layout_marginHorizontal="30dp"
+        android:textColor="@color/white"
+        android:text="Најава"
+        android:fontFamily="cursive"
+        android:textSize="40dp"
+        android:textAlignment="center"
+        android:textStyle="bold"/>
+    <EditText
+        android:id="@+id/email_k"
+        android:layout_width="match_parent"
+        app:layout_constraintTop_toBottomOf="@+id/nas"
+        android:layout_height="wrap_content"
+        android:background="@drawable/edit_border"
+        android:textColor="@color/white"
+        android:layout_marginTop="40dp"
+        android:layout_marginHorizontal="20dp"
+        android:padding="10dp"
+        android:hint="E-mail"
+        />
+    <EditText
+        android:id="@+id/pass_k"
+        android:layout_width="match_parent"
+        app:layout_constraintTop_toBottomOf="@id/email_k"
+        android:layout_height="wrap_content"
+        android:background="@drawable/edit_border"
+        android:textColor="@color/white"
+        android:layout_marginTop="20dp"
+        android:layout_marginHorizontal="20dp"
+        android:padding="10dp"
+        android:hint="Password"
+        android:inputType="textPassword"
+        />
+
+    <Button
+        android:id="@+id/prodolzi"
+        app:layout_constraintTop_toBottomOf="@id/pass_k"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:backgroundTint="#808080"
+        android:text="Најави се"
+        android:textColor="@color/white" />
+
+    <TextView
+        android:id="@+id/reg_se_kor"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/text"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        android:layout_marginBottom="20dp"
+        android:textSize="20dp"/>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

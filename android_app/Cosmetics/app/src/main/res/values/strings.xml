@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Cosmetics</string>
+    <string-array name="Studio">
+        <item>Коса</item>
+        <item>Шминка</item>
+        <item>Нокти</item>
+        <item>Тело</item>
+    </string-array>
+    <string name="text">Немаш профил? <u>Регистрирај се!</u>.</string>
+    <string name="map_key" translatable="false">AIzaSyA_tLMYtSnBQ2oMZrUxjzb0p3OMaM43Kh4</string>
+</resources>

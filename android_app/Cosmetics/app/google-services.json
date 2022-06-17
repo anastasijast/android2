@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "661189730581",
+    "project_id": "cosmetics-91e08",
+    "storage_bucket": "cosmetics-91e08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661189730581:android:59e28c3ef9dd5ac633091c",
+        "android_client_info": {
+          "package_name": "anastasijast.example.cosmetics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "661189730581-ns7u12a691bsjtdlcps92j2mplho7mnf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDblhg5SgBZ1P33LYxO-Z2aW6AHeQHkGsg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "661189730581-ns7u12a691bsjtdlcps92j2mplho7mnf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

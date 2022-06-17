@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Email"
+    android:orientation="vertical"
+    android:background="@drawable/sl4">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_marginHorizontal="30dp"
+        android:textColor="@color/black"
+        android:text="ВНЕСЕТЕ ГИ ВАШИТЕ ПОДАТОЦИ"
+        android:textSize="25dp"
+        android:textAlignment="center"
+        android:textStyle="bold"/>
+    <EditText
+        android:id="@+id/ime"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/edit_border"
+        android:textColor="@color/white"
+        android:layout_marginTop="50dp"
+        android:layout_marginHorizontal="20dp"
+        android:padding="10dp"
+        android:hint="Име и Презиме"
+        />
+    <EditText
+        android:id="@+id/broj"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/edit_border"
+        android:textColor="@color/white"
+        android:layout_marginTop="20dp"
+        android:layout_marginHorizontal="20dp"
+        android:padding="10dp"
+        android:hint="Телефонски број"
+        />
+    <EditText
+        android:id="@+id/email"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/edit_border"
+        android:textColor="@color/white"
+        android:layout_marginTop="20dp"
+        android:layout_marginHorizontal="20dp"
+        android:padding="10dp"
+        android:hint="E-mail"
+        />
+    <EditText
+        android:id="@+id/lozinka"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/edit_border"
+        android:textColor="@color/white"
+        android:layout_marginTop="20dp"
+        android:layout_marginHorizontal="20dp"
+        android:padding="10dp"
+        android:hint="Лозинка"
+        android:inputType="textPassword"
+        />
+    <Button
+        android:id="@+id/registrira_kor"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="40dp"
+        android:text="регистрирај се"
+        android:backgroundTint="@color/black"
+        android:textColor="@color/white"/>
+</LinearLayout>

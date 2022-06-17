@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Anastasija/AndroidStudioProjects/Cosmetics/app/src/main/res/drawable-v24/edit_border.xml" value="0.211" />
+        <entry key="..\:/Users/Anastasija/AndroidStudioProjects/Cosmetics/app/src/main/res/drawable-v24/empty_tall_divider.xml" value="0.199" />
+        <entry key="..\:/Users/Anastasija/AndroidStudioProjects/Cosmetics/app/src/main/res/layout/activity_dopolni.xml" value="0.25" />
+        <entry key="..\:/Users/Anastasija/AndroidStudioProjects/Cosmetics/app/src/main/res/layout/activity_email.xml" value="0.25" />
+        <entry key="..\:/Users/Anastasija/AndroidStudioProjects/Cosmetics/app/src/main/res/layout/activity_email_sign_up.xml" value="0.25" />
+        <entry key="..\:/Users/Anastasija/AndroidStudioProjects/Cosmetics/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/Anastasija/AndroidStudioProjects/Cosmetics/app/src/main/res/layout/activity_map.xml" value="0.2359375" />
+        <entry key="..\:/Users/Anastasija/AndroidStudioProjects/Cosmetics/app/src/main/res/layout/activity_odbieno.xml" value="0.24547101449275363" />
+        <entry key="..\:/Users/Anastasija/AndroidStudioProjects/Cosmetics/app/src/main/res/layout/activity_poraki.xml" value="0.24547101449275363" />
+        <entry key="..\:/Users/Anastasija/AndroidStudioProjects/Cosmetics/app/src/main/res/layout/activity_rating.xml" value="0.2" />
+        <entry key="..\:/Users/Anastasija/AndroidStudioProjects/Cosmetics/app/src/main/res/layout/activity_salon.xml" value="0.264" />
+        <entry key="..\:/Users/Anastasija/AndroidStudioProjects/Cosmetics/app/src/main/res/layout/activity_salon_pregled.xml" value="0.2418478260869565" />
+        <entry key="..\:/Users/Anastasija/AndroidStudioProjects/Cosmetics/app/src/main/res/layout/activity_saloni.xml" value="0.1" />
+        <entry key="..\:/Users/Anastasija/AndroidStudioProjects/Cosmetics/app/src/main/res/layout/activity_sign_in.xml" value="0.25" />
+        <entry key="..\:/Users/Anastasija/AndroidStudioProjects/Cosmetics/app/src/main/res/layout/activity_sign_up.xml" value="0.25" />
+        <entry key="..\:/Users/Anastasija/AndroidStudioProjects/Cosmetics/app/src/main/res/layout/activity_sign_up_pred.xml" value="0.2418478260869565" />
+        <entry key="..\:/Users/Anastasija/AndroidStudioProjects/Cosmetics/app/src/main/res/layout/activity_termini_salon.xml" value="0.25" />
+        <entry key="..\:/Users/Anastasija/AndroidStudioProjects/Cosmetics/app/src/main/res/layout/activity_welcome.xml" value="0.1" />
+        <entry key="..\:/Users/Anastasija/AndroidStudioProjects/Cosmetics/app/src/main/res/layout/activity_zakazani_termini.xml" value="0.2418478260869565" />
+        <entry key="..\:/Users/Anastasija/AndroidStudioProjects/Cosmetics/app/src/main/res/layout/activity_zakazi_termin.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
